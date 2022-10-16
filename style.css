@@ -4,3 +4,6 @@ h1{
 body{
     font-family: 'Fuzzy Bubbles', cursive;
 }
+.name{
+    color: rgb(145, 155, 114);
+}
