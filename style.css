@@ -7,3 +7,16 @@ body{
 .name{
     color: rgb(145, 155, 114);
 }
+p{
+   
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-right: 100px;
+}
+.half-width img{ 
+    width: 300px;
+    height: 400px;
+    float: left;
+} 
