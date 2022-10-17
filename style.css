@@ -13,12 +13,24 @@ body{
 .half-width{ 
     width: 50%;
     float: left;
+    height: 500px;
+} 
+.half-width img{ 
+
+    height: 500px;
 } 
 .top-banner{
     background-image: url("top-banner.png");
     border: 1px solid red;
 }
 section a{
-    float: none;
-    color: red;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 8px;
+    background: green;
+    color: rgb(173, 179, 173);
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 100px;
 }
