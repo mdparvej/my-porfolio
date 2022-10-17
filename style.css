@@ -14,10 +14,12 @@ body{
     width: 50%;
     float: left;
     height: 500px;
+    margin-bottom: 100px;
 } 
 .half-width img{ 
 
     height: 500px;
+    margin-top: 20px;
 } 
 .top-banner{
     background-image: url("top-banner.png");
@@ -29,8 +31,18 @@ section a{
     padding: 5px;
     border-radius: 8px;
     background: green;
-    color: rgb(173, 179, 173);
+    color: white;
     margin-left: 30px;
     display: inline-block;
     margin-top: 100px;
+}
+.link-button{
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 20px 30px;
+}
+.hi{
+    background-image:url("dream-bg.png") ;
+}
+section{
+    height: 500px;
 }
